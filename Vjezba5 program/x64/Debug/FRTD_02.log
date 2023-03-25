@@ -1,0 +1,25 @@
+﻿  croutine.c
+c:\google_drive\Materijal za vezbe\autoelektronika\lekcije_za_sovu\veyba 7-FreeRTOS\kod\1_VEZBA\FreeRTOS\croutine.c(28,10): fatal error C1083: Cannot open include file: 'FreeRTOS.h': No such file or directory
+  event_groups.c
+c:\google_drive\Materijal za vezbe\autoelektronika\lekcije_za_sovu\veyba 7-FreeRTOS\kod\1_VEZBA\FreeRTOS\event_groups.c(37,10): fatal error C1083: Cannot open include file: 'FreeRTOS.h': No such file or directory
+  list.c
+c:\google_drive\Materijal za vezbe\autoelektronika\lekcije_za_sovu\veyba 7-FreeRTOS\kod\1_VEZBA\FreeRTOS\list.c(30,10): fatal error C1083: Cannot open include file: 'FreeRTOS.h': No such file or directory
+  heap_4.c
+c:\google_drive\Materijal za vezbe\autoelektronika\lekcije_za_sovu\veyba 7-FreeRTOS\kod\1_VEZBA\FreeRTOS\portable\MemMang\heap_4.c(43,10): fatal error C1083: Cannot open include file: 'FreeRTOS.h': No such file or directory
+  port.c
+c:\google_drive\Materijal za vezbe\autoelektronika\lekcije_za_sovu\veyba 7-FreeRTOS\kod\1_VEZBA\FreeRTOS\portable\MSVC\port.c(32,10): fatal error C1083: Cannot open include file: 'FreeRTOS.h': No such file or directory
+  queue.c
+c:\google_drive\Materijal za vezbe\autoelektronika\lekcije_za_sovu\veyba 7-FreeRTOS\kod\1_VEZBA\FreeRTOS\queue.c(36,10): fatal error C1083: Cannot open include file: 'FreeRTOS.h': No such file or directory
+  stream_buffer.c
+c:\google_drive\Materijal za vezbe\autoelektronika\lekcije_za_sovu\veyba 7-FreeRTOS\kod\1_VEZBA\FreeRTOS\stream_buffer.c(38,10): fatal error C1083: Cannot open include file: 'FreeRTOS.h': No such file or directory
+  tasks.c
+c:\google_drive\Materijal za vezbe\autoelektronika\lekcije_za_sovu\veyba 7-FreeRTOS\kod\1_VEZBA\FreeRTOS\tasks.c(38,10): fatal error C1083: Cannot open include file: 'FreeRTOS.h': No such file or directory
+  timers.c
+c:\google_drive\Materijal za vezbe\autoelektronika\lekcije_za_sovu\veyba 7-FreeRTOS\kod\1_VEZBA\FreeRTOS\timers.c(36,10): fatal error C1083: Cannot open include file: 'FreeRTOS.h': No such file or directory
+  I_Vezba_1_zadatak.c
+c:\google_drive\Materijal za vezbe\autoelektronika\lekcije_za_sovu\veyba 7-FreeRTOS\kod\1_VEZBA\I_Vezba_1_zadatak.c(9,10): fatal error C1083: Cannot open include file: 'FreeRTOS.h': No such file or directory
+  I_Vezba_2_zadatak.c
+c:\google_drive\Materijal za vezbe\autoelektronika\lekcije_za_sovu\veyba 7-FreeRTOS\kod\1_VEZBA\I_Vezba_2_zadatak.c(9,10): fatal error C1083: Cannot open include file: 'FreeRTOS.h': No such file or directory
+  main.c
+c:\google_drive\Materijal za vezbe\autoelektronika\lekcije_za_sovu\veyba 7-FreeRTOS\kod\1_VEZBA\main.c(7,10): fatal error C1083: Cannot open include file: 'FreeRTOS.h': No such file or directory
+  Generating Code...
